@@ -49,7 +49,7 @@ def count_palindromes(input_file):
         line = line.rstrip()
         # Checks if each line is a palindrome
         if is_palindrome(line):
-            total_palindromes = 0
+            total_palindromes += 1
     return total_palindromes
 
 
