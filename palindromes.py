@@ -8,6 +8,7 @@ Hint: Check the count_palindromes function
 
 import sys
 
+
 def is_palindrome(string):
     '''
     Checks if a string is a palindrome. Palindromes are strings that are
